@@ -68,7 +68,7 @@ while( $row =mysqli_fetch_array($res))
 							|Country - City|
 						</td>
 						<td>: 
-'.$row["country"].'	 - '.$row["city"]. '  <img src="http://www.zone-h.org/images/cflags/png/jo.png" alt="" style="width: 25px; height: 13px;">				</td>
+'.$row["country"].'	 - '.$row["city"]. '  <img src="" alt="" style="width: 25px; height: 13px;">				</td>
 					</tr>
                     
                     
